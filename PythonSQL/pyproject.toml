@@ -1,0 +1,10 @@
+[project]
+name = "incedotraining"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mysql-connector-python==8.0.33",
+    "sqlalchemy==1.4.46",
+]
